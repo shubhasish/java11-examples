@@ -13,6 +13,12 @@ This repository contains some new feature code after Java8, which runs on top of
 - [time](src/main/java/io/github/biezhi/java11/time)
 - [single file](src/main/java/io/github/biezhi/java11/singlefile)
 
+## How to build?
+
+`mvn clean install`
+
+to skip tests: `mvn clean install -DskipTests`
+
 # License
 
 [MIT](LICENSE)
